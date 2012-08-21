@@ -1,6 +1,7 @@
 class Test2
   def initialize
     puts "Why???"
-    pust "This is Why???"
+    puts "This is Why???"
+    puts "Dongwoo Won"
   end
 end
